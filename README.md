@@ -56,11 +56,13 @@ pip install -r requirements.txt
 ```
 
 3.Run the notebooks in order:
-Data_Cleaning_Feature_Engineering.ipynb
-Bank_Customers.ipynb
+- Data_Cleaning_Feature_Engineering.ipynb
+- Bank_Customers.ipynb
 
 
 ## 📬 Contact
-Created by @nikita94-stack
-For suggestions or issues, open an issue
+
+Created by [@nikita94-stack](https://github.com/nikita94-stack)  
+For suggestions or issues, [open an issue](https://github.com/nikita94-stack/bank_eda_project/issues)
+
 
