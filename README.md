@@ -21,7 +21,7 @@ Generate synthetic `cibil_score` and assign risk bands
 
 📊 2. Main EDA Notebook  
 Analyze customer behavior and transaction trends  
-25+ SQL queries answered using Python + SQLAlchemy  
+Delivered insights by executing SQL queries using SQLAlchemy in Python 
 Credit risk bands, loan summaries, and inactivity analysis
 
 ## 🔧 Tech Stack
